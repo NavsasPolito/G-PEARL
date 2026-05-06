@@ -1,0 +1,115 @@
+########################################################################################
+[Mar-02 12:51:51] G-PEARL (v1.0) - Activities Log
+----------------------------------------------------------------------------------------
+[Mar-02 12:51:51] G-PEARL is logging the session activities.
+[Mar-02 12:51:51] [CONGIF.ERR_01] Output data path not found or no writing permission.
+[Mar-02 12:51:51] Startup completed, ready for session configuration.
+########################################################################################
+[Mar-04 14:42:31] G-PEARL (v1.0) - Activities Log
+----------------------------------------------------------------------------------------
+[Mar-04 14:42:31] G-PEARL is logging the session activities.
+[Mar-04 14:42:31] [CONGIF.ERR_01] Output data path not found or no writing permission.
+[Mar-04 14:42:31] Startup completed, ready for session configuration.
+[Mar-04 14:42:59] [CONGIF.ERR_01] Output data path not found or no writing permission.
+[Mar-04 14:43:18] [CONGIF.ERR_01] Output data path not found or no writing permission.
+########################################################################################
+[Mar-04 18:08:49] G-PEARL (v1.0) - Activities Log
+----------------------------------------------------------------------------------------
+[Mar-04 18:08:49] G-PEARL is logging the session activities.
+[Mar-04 18:08:49] Startup completed, ready for session configuration.
+########################################################################################
+[Mar-04 18:12:07] G-PEARL (v1.0) - Activities Log
+----------------------------------------------------------------------------------------
+[Mar-04 18:12:07] G-PEARL is logging the session activities.
+[Mar-04 18:12:07] Startup completed, ready for session configuration.
+########################################################################################
+[May-06 10:52:19] G-PEARL (v1.0) - Activities Log
+----------------------------------------------------------------------------------------
+[May-06 10:52:19] G-PEARL is logging the session activities.
+[May-06 10:52:19] Startup completed, ready for session configuration.
+########################################################################################
+[May-06 11:12:33] G-PEARL (v1.0) - Activities Log
+----------------------------------------------------------------------------------------
+[May-06 11:12:33] G-PEARL is logging the session activities.
+[May-06 11:12:33] Startup completed, ready for session configuration.
+[May-06 11:13:42] Session configured successfully. Current Operator: 
+[May-06 11:13:42] RINEX data parsing. It may take a few seconds...
+########################################################################################
+[May-06 11:14:07] G-PEARL (v1.0) - Activities Log
+----------------------------------------------------------------------------------------
+[May-06 11:14:07] G-PEARL is logging the session activities.
+[May-06 11:14:07] Startup completed, ready for session configuration.
+[May-06 11:15:07] Session configured successfully. Current Operator: 
+[May-06 11:15:07] RINEX data parsing. It may take a few seconds...
+[May-06 11:15:14] RINEX obs data saved succesfully
+[May-06 11:15:14] [CONGIF.ERR_03] NMEA data parsing failed.
+[May-06 11:15:15] Experimental setup preparation completed successfully.
+[May-06 11:16:35] Experiment 1a ran succesfully.
+[May-06 11:17:25] Results of experiment 1a saved (Run ID: 1)
+########################################################################################
+[May-06 11:38:11] G-PEARL (v1.0) - Activities Log
+----------------------------------------------------------------------------------------
+[May-06 11:38:11] G-PEARL is logging the session activities.
+[May-06 11:38:11] Startup completed, ready for session configuration.
+[May-06 11:38:28] Session configured successfully. Current Operator: 
+[May-06 11:38:28] RINEX data parsing. It may take a few seconds...
+[May-06 11:38:37] RINEX obs data saved succesfully
+[May-06 11:38:37] [CONGIF.ERR_03] NMEA data parsing failed.
+[May-06 11:38:38] Experimental setup preparation completed successfully.
+[May-06 11:38:44] Experiment 1a ran succesfully.
+[May-06 11:38:56] Results of experiment 1a saved (Run ID: 1)
+[May-06 11:39:06] Report of experiment 1a saved (Run ID: 1)
+########################################################################################
+[May-06 11:59:32] G-PEARL (v1.0) - Activities Log
+----------------------------------------------------------------------------------------
+[May-06 11:59:32] G-PEARL is logging the session activities.
+[May-06 11:59:32] Startup completed, ready for session configuration.
+[May-06 12:01:23] Session configured successfully. Current Operator: 
+[May-06 12:01:23] Session configured successfully. Current Operator: 
+[May-06 12:01:23] RINEX data parsing. It may take a few seconds...
+[May-06 12:01:38] RINEX obs data saved succesfully
+[May-06 12:01:38] [CONGIF.ERR_03] NMEA data parsing failed.
+[May-06 12:01:40] Experimental setup preparation completed successfully.
+[May-06 12:01:40] RINEX data parsing. It may take a few seconds...
+[May-06 12:01:53] RINEX obs data saved succesfully
+[May-06 12:01:53] [CONGIF.ERR_03] NMEA data parsing failed.
+[May-06 12:01:55] Experimental setup preparation completed successfully.
+[May-06 12:02:04] Experiment 1a ran succesfully.
+[May-06 12:03:26] Results of experiment 1a saved (Run ID: 1)
+[May-06 12:03:59] Report of experiment 1a saved (Run ID: 1)
+[May-06 12:06:11] Experiment 1b ran succesfully.
+########################################################################################
+[May-06 14:26:46] G-PEARL (v1.0) - Activities Log
+----------------------------------------------------------------------------------------
+[May-06 14:26:46] G-PEARL is logging the session activities.
+[May-06 14:26:46] Startup completed, ready for session configuration.
+[May-06 14:27:04] Session configured successfully. Current Operator: 
+[May-06 14:27:04] RINEX data parsing. It may take a few seconds...
+[May-06 14:27:15] RINEX obs data saved succesfully
+[May-06 14:27:15] [CONGIF.ERR_03] NMEA data parsing failed.
+[May-06 14:27:16] Experimental setup preparation completed successfully.
+[May-06 14:27:35] Experiment 1a ran succesfully.
+[May-06 14:27:48] Results of experiment 1a saved (Run ID: 1)
+########################################################################################
+[May-06 14:35:34] G-PEARL (v1.0) - Activities Log
+----------------------------------------------------------------------------------------
+[May-06 14:35:34] G-PEARL is logging the session activities.
+[May-06 14:35:34] Startup completed, ready for session configuration.
+[May-06 14:35:53] Session configured successfully. Current Operator: 
+[May-06 14:35:53] RINEX data parsing. It may take a few seconds...
+[May-06 14:36:02] RINEX obs data saved succesfully
+[May-06 14:36:02] [CONGIF.ERR_03] NMEA data parsing failed.
+[May-06 14:36:03] Experimental setup preparation completed successfully.
+[May-06 14:36:14] Experiment 1a ran succesfully.
+[May-06 14:36:48] Results of experiment 1a saved (Run ID: 1)
+[May-06 14:36:59] Report of experiment 1a saved (Run ID: 1)
+########################################################################################
+[May-06 14:47:29] G-PEARL (v1.0) - Activities Log
+----------------------------------------------------------------------------------------
+[May-06 14:47:29] G-PEARL is logging the session activities.
+[May-06 14:47:29] Startup completed, ready for session configuration.
+########################################################################################
+[May-06 16:52:11] G-PEARL (v1.0) - Activities Log
+----------------------------------------------------------------------------------------
+[May-06 16:52:11] G-PEARL is logging the session activities.
+[May-06 16:52:11] Startup completed, ready for session configuration.
